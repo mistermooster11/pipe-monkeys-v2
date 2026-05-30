@@ -11,7 +11,7 @@ export const pricingCards: PricingCard[] = [
   {
     price: 249,
     note: "No hidden fees. No weekend surcharge",
-    title: "Manual Unclogging",
+    title: "Drain Cleaning",
     features: ["Toilets", "Sinks & drains", "Showers & tubs", "Dishwasher", "Washing machine"],
     description:
       "We use low pressure drain blaster, a mechanical or motorized snake depending on your installation.",
@@ -31,14 +31,14 @@ export const pricingCards: PricingCard[] = [
   {
     price: 349,
     note: "No hidden fees. No weekend surcharge",
-    title: "Hydro Jet Unclogging",
+    title: "Hydro Jet Cleaning",
     features: [
       "Clears sewer & main lines",
       "Removes grease, scale, and heavy buildup",
       "Restores full pipe flow",
     ],
     description:
-      "High-pressure hydro jetting reaches deeper and cleans better than traditional unclogging tools.\n\nPrice is per line. Residential rate.",
+      "High-pressure hydro jetting reaches deeper and cleans better than traditional drain snaking tools.\n\nPrice is per line. Residential rate.",
     highlight: true,
   },
   {

@@ -38,7 +38,7 @@ export default function BlogSection() {
       <div className="blog__header">
         <div className="blog__eyebrow">Pipe Monkeys Blog</div>
         <h2 className="blog__heading">Built on Experience. Shared Through Knowledge.</h2>
-        <Link href="/blog-unclogme/" className="blog__view-btn">
+        <Link href="/blog/" className="blog__view-btn">
           View Blog
         </Link>
       </div>

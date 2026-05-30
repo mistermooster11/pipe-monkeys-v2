@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import "@/styles/homepage.css";
 import PageHeroSection from "@/components/custom/page-hero/PageHeroSection";
 import ServicesSection from "@/components/custom/services/ServicesSection";
-import PricingSection from "@/components/custom/pricing/PricingSection";
 import TestimonialsSection from "@/components/custom/testimonials/TestimonialsSection";
 import CTAFormSection from "@/components/custom/cta/CTAFormSection";
 
@@ -24,7 +23,6 @@ export default function ServicesPage() {
         ]}
       />
       <ServicesSection />
-      <PricingSection />
       <TestimonialsSection />
       <CTAFormSection />
     </>

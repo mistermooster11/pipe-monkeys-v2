@@ -84,7 +84,7 @@ export default function PricingSection() {
         <div className="pricing__label">Pricing</div>
         <h2 className="pricing__heading">Request for intervention</h2>
         <p className="pricing__subtext">
-          Clear and upfront pricing for residential and commercial unclogging, grease trap
+          Clear and upfront pricing for residential and commercial drain cleaning
           cleaning, emergency services, and ongoing maintenance — with no hidden fees
           across Miami-Dade County.
         </p>

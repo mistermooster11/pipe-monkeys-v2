@@ -62,7 +62,7 @@ export default function BecomeSection() {
     <section className="become-section" ref={sectionRef}>
       <div className="become-section__inner">
         <p className="become-section__intro">
-          UnclogMe is expanding its network of professional uncloggers across Miami-Dade, Broward &amp; Palm Beach.
+          Pipe Monkeys is the trusted drain and sewer service company serving Brooklyn, Queens &amp; Nassau County.
           If you are a motivated, hands-on professional looking for a rewarding career in drain and grease trap services,
           we want to hear from you.
         </p>

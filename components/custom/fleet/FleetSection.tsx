@@ -44,7 +44,7 @@ export default function FleetSection() {
           <p className="fleet-section__intro">
             Our fleet includes three modern service trucks equipped with advanced
             technology to handle grease trap cleaning, commercial and residential
-            unclogging, and emergency services efficiently. This allows us to deliver
+            drain cleaning, and emergency services efficiently. This allows us to deliver
             faster response times, precise service execution, and reliable results across
             Miami-Dade County.
           </p>
@@ -54,21 +54,21 @@ export default function FleetSection() {
         <div className="fleet-section__images">
           <Image
             src="/wp-assets/About-Row-IMG-1.webp"
-            alt="UnclogMe service truck"
+            alt="Pipe Monkeys service truck"
             width={1024}
             height={909}
             className="fleet-section__img"
           />
           <Image
             src="/wp-assets/Truck-Example-2.webp"
-            alt="UnclogMe truck example"
+            alt="Pipe Monkeys service truck"
             width={1024}
             height={683}
             className="fleet-section__img"
           />
           <Image
             src="/wp-assets/Truck-Example-3.webp"
-            alt="UnclogMe truck example"
+            alt="Pipe Monkeys service truck"
             width={1024}
             height={541}
             className="fleet-section__img"
