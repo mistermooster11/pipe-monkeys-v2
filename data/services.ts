@@ -23,7 +23,7 @@ export const services: Service[] = [
   {
     number: "01",
     title: "Residential Drain Cleaning",
-    image: "/images/service-1.png",
+    image: "/images/service-1.jpg",
     href: "/residential-drain-cleaning/",
     width: 535,
     height: 643,
@@ -31,7 +31,7 @@ export const services: Service[] = [
   {
     number: "02",
     title: "Sewer Line Services",
-    image: "/images/service-2.png",
+    image: "/images/service-2.jpg",
     href: "/sewer-line-services/",
     width: 535,
     height: 643,
@@ -39,7 +39,7 @@ export const services: Service[] = [
   {
     number: "03",
     title: "Camera Inspection",
-    image: "/images/service-3.webp",
+    image: "/images/service-3.jpg",
     href: "/camera-inspection/",
     width: 535,
     height: 643,
@@ -47,7 +47,7 @@ export const services: Service[] = [
   {
     number: "04",
     title: "Commercial Drain Cleaning",
-    image: "/images/service-4.webp",
+    image: "/images/service-4.jpg",
     href: "/commercial-drain-cleaning/",
     width: 535,
     height: 643,

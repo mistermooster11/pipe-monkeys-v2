@@ -28,7 +28,7 @@ export default function CommercialDrainCleaningPage() {
       />
       <ServiceDetailSection
         activeService="Commercial Drain Cleaning"
-        sidebarImage="/images/service-4.webp"
+        sidebarImage="/images/service-4.jpg"
         sidebarImageWidth={535}
         sidebarImageHeight={643}
         heading="Commercial & Multi-Unit Drain Cleaning"

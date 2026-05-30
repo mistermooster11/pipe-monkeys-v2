@@ -28,7 +28,7 @@ export default function CameraInspectionPage() {
       />
       <ServiceDetailSection
         activeService="Camera Inspection"
-        sidebarImage="/images/service-3.webp"
+        sidebarImage="/images/service-3.jpg"
         sidebarImageWidth={535}
         sidebarImageHeight={643}
         heading="Drain & Sewer Camera Inspection"

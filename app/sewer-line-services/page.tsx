@@ -28,7 +28,7 @@ export default function SewerLineServicesPage() {
       />
       <ServiceDetailSection
         activeService="Sewer Line Services"
-        sidebarImage="/images/service-2.png"
+        sidebarImage="/images/service-2.jpg"
         sidebarImageWidth={535}
         sidebarImageHeight={643}
         heading="Main Sewer Line Clearing & Hydro Jetting"

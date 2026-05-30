@@ -28,7 +28,7 @@ export default function ResidentialDrainCleaningPage() {
       />
       <ServiceDetailSection
         activeService="Residential Drain Cleaning"
-        sidebarImage="/images/service-1.png"
+        sidebarImage="/images/service-1.jpg"
         sidebarImageWidth={535}
         sidebarImageHeight={643}
         heading="Home Drain Cleaning Services"
