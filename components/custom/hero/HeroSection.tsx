@@ -51,8 +51,15 @@ export default function HeroSection() {
 
   return (
     <section className="hero">
-      {/* Hero background — replace with client image/video when available */}
-      <div className="hero__video-bg" style={{ backgroundColor: '#172535' }} />
+      {/* Cloudflare Stream video background */}
+      <div className="hero__video-bg">
+        <iframe
+          src="https://customer-ip9lnkk65px0t3ak.cloudflarestream.com/31e326cc0c5552b58efe3b80eb3248c3/iframe?autoplay=true&muted=true&loop=true&controls=false&preload=true"
+          allow="autoplay; fullscreen; picture-in-picture"
+          title="Hero video background"
+          aria-hidden="true"
+        />
+      </div>
 
       {/* Content */}
       <div className="hero__content">

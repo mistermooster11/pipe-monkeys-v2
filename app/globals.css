@@ -65,12 +65,12 @@
   --color-primary: #EEF3F7;        /* light blue-gray bg */
   --color-secondary: #000000;      /* black */
   --color-text: #4A5257;           /* body text */
-  --color-accent: #F14714;         /* orange-red CTA */
+  --color-accent: #004366;         /* orange-red CTA */
   --color-white: #FFFFFF;
-  --color-dark: #121C22;           /* dark navy */
-  --color-dark-2: #1F2428;         /* slightly lighter dark */
+  --color-dark: #0A1929;           /* dark navy */
+  --color-dark-2: #0D2137;         /* slightly lighter dark */
   --color-light-gray: #C5D0D7;
-  --color-red-light: #E86556;      /* pricing checkmark color */
+  --color-red-light: #E4001C;      /* pricing checkmark color */
   --color-bg-light: #FAFAFA;
 
   /* Typography */

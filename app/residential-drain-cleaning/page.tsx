@@ -17,6 +17,7 @@ export default function ResidentialDrainCleaningPage() {
   return (
     <>
       <PageHeroSection
+        bgImage="/images/masthead-residential.jpg"
         title="Residential Drain Cleaning"
         subtitle="Fast, reliable drain cleaning for homes across Brooklyn, Queens & Nassau County — upfront pricing, same-day service, and a 100% cleanup guarantee."
         breadcrumbs={[

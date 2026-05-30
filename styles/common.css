@@ -203,7 +203,7 @@
 /* ─── MOBILE HAMBURGER ──────────────────────────── */
 .hamburger {
   display: none;
-  background: #E84F23;
+  background: #003052;
   border: none;
   cursor: pointer;
   padding: 8px;
@@ -354,7 +354,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("/wp-assets/Title-Background-Image-scaled.webp");
+  background-image: var(--page-hero-bg, url("/images/masthead-default.jpg"));
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -366,7 +366,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background-color: rgba(18, 28, 34, 0.72);
+  background-color: rgba(10, 25, 41, 0.72);
   z-index: 1;
 }
 

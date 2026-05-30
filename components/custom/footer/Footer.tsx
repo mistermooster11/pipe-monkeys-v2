@@ -10,10 +10,10 @@ export default function Footer() {
         <div className="footer__brand">
           <Link href="/">
             <Image
-              src="/images/logo-footer.svg"
+              src="/PipeMokeys-logo.webp"
               alt="Pipe Monkeys Logo"
-              width={239}
-              height={58}
+              width={180}
+              height={55}
               className="footer__logo"
               style={{ height: "auto" }}
             />

@@ -17,6 +17,7 @@ export default function CommercialDrainCleaningPage() {
   return (
     <>
       <PageHeroSection
+        bgImage="/images/masthead-commercial.jpg"
         title="Commercial Drain Cleaning"
         subtitle="Drain cleaning and sewer service for businesses, property managers, and multi-unit buildings across Brooklyn, Queens & Nassau County."
         breadcrumbs={[

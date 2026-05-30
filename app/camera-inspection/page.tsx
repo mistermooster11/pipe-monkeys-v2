@@ -17,6 +17,7 @@ export default function CameraInspectionPage() {
   return (
     <>
       <PageHeroSection
+        bgImage="/images/masthead-camera.jpg"
         title="Camera Inspection"
         subtitle="See exactly what's inside your pipes. Professional sewer and drain camera inspection across Brooklyn, Queens & Nassau County."
         breadcrumbs={[

@@ -17,6 +17,7 @@ export default function SewerLineServicesPage() {
   return (
     <>
       <PageHeroSection
+        bgImage="/images/masthead-sewer.jpg"
         title="Sewer Line Services"
         subtitle="Main sewer line clearing, drain snaking, and hydro jetting for homes and buildings across Brooklyn, Queens & Nassau County."
         breadcrumbs={[

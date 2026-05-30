@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import Link from "next/link";
 import { useEffect, useRef } from "react";
 
@@ -12,12 +13,14 @@ interface PageHeroSectionProps {
   title: string;
   subtitle?: string;
   breadcrumbs?: Breadcrumb[];
+  bgImage?: string;
 }
 
 export default function PageHeroSection({
   title,
   subtitle,
   breadcrumbs,
+  bgImage,
 }: PageHeroSectionProps) {
   const innerRef = useRef<HTMLDivElement>(null);
 
@@ -42,7 +45,10 @@ export default function PageHeroSection({
   }, []);
 
   return (
-    <section className="page-hero">
+    <section
+      className="page-hero"
+      style={bgImage ? ({ '--page-hero-bg': `url("${bgImage}")` } as React.CSSProperties) : undefined}
+    >
       <div className="page-hero__inner" ref={innerRef}>
         {breadcrumbs && breadcrumbs.length > 0 && (
           <nav className="page-hero__breadcrumb" aria-label="Breadcrumb">
