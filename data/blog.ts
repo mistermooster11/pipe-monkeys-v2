@@ -12,7 +12,7 @@ export type BlogPost = {
 export const blogPosts: BlogPost[] = [
   {
     slug: "/blog/signs-your-sewer-line-needs-attention/",
-    image: "/images/blog-3.png",
+    image: "/images/blog-sewer.jpg",
     date: "15",
     monthYear: "May '26",
     category: "Sewer Lines",
@@ -23,7 +23,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "/blog/hydro-jetting-vs-snaking/",
-    image: "/images/blog-2.png",
+    image: "/images/blog-drain.jpg",
     date: "08",
     monthYear: "May '26",
     category: "Drain Cleaning",
@@ -34,7 +34,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "/blog/how-to-prevent-kitchen-drain-clogs/",
-    image: "/images/blog-2.png",
+    image: "/images/blog-drain.jpg",
     date: "01",
     monthYear: "May '26",
     category: "Tips & Maintenance",
