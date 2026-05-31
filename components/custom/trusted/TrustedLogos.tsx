@@ -48,29 +48,29 @@ export default function TrustedLogos() {
         <div className="trusted__logos">
           <div className="trusted__logo-item">
             <Image
-              src="/images/logos-restaurante-2.png"
-              alt="Restaurant Logo"
-              width={138}
-              height={80}
-              style={{ height: "60px", width: "auto" }}
+              src="/bambi-baby-logo.svg"
+              alt="Bambi Baby Logo"
+              width={160}
+              height={60}
+              style={{ height: "50px", width: "auto" }}
             />
           </div>
           <div className="trusted__logo-item">
             <Image
-              src="/images/logo-joia-beach.png"
-              alt="Joia Beach Logo"
-              width={265}
-              height={80}
-              style={{ height: "60px", width: "auto" }}
+              src="/just-bagels-logo.avif"
+              alt="Just Bagels Logo"
+              width={160}
+              height={60}
+              style={{ height: "50px", width: "auto" }}
             />
           </div>
           <div className="trusted__logo-item">
             <Image
-              src="/images/logos-restaurante-1.png"
-              alt="Restaurant Logo"
-              width={118}
-              height={78}
-              style={{ height: "60px", width: "auto" }}
+              src="/tokyo-hibachi-catering-logo.avif"
+              alt="Tokyo Hibachi Catering Logo"
+              width={160}
+              height={60}
+              style={{ height: "50px", width: "auto" }}
             />
           </div>
         </div>
