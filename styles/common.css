@@ -203,7 +203,7 @@
 /* ─── MOBILE HAMBURGER ──────────────────────────── */
 .hamburger {
   display: none;
-  background: #003052;
+  background: var(--color-accent);
   border: none;
   cursor: pointer;
   padding: 8px;
